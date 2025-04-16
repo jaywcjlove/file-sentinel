@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="100" alt="FileSentinel" src="https://github.com/user-attachments/assets/53fd44d7-a20b-4202-a4ce-9b7512489dfe" /> 请尽可能详细地提供您的支持请求或反馈。
+        <img align="right" height="100" alt="FileSentinel" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9" /> 请尽可能详细地提供您的支持请求或反馈。
 
         FileSentinel 是一款用于监听文本文件变化、保存最后一行内容，并便捷查询终端命令历史记录的工具。它可以监控类似 .zsh_history 或 .bash_history 文件，自动保存 Shell 历史记录，帮助您快速搜索最近的终端命令，避免遗忘重要命令。应用支持全文搜索和命令收藏，提升您的工作效率。
 

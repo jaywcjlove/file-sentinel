@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="86" alt="FileSentinel" src="https://github.com/user-attachments/assets/53fd44d7-a20b-4202-a4ce-9b7512489dfe"> Please provide as much detail as possible about your support request or feedback.
+        <img align="right" height="86" alt="FileSentinel" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"> Please provide as much detail as possible about your support request or feedback.
         
         FileSentinel is a tool for monitoring text file changes, saving the last line of content, and conveniently querying terminal command history. It can monitor files such as .zsh_history or .bash_history, automatically saving shell history records to help you quickly search recent terminal commands and avoid forgetting important ones. The App supports full-text search and command pinning to improve your work efficiency.
 
