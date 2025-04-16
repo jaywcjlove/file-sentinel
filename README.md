@@ -25,6 +25,8 @@
 
 ![FileSentinel 1](./assets/screenshots-1.png)
 
+![FileSentinel 2](./assets/screenshots-2.png)
+
 File Monitor for listening to text files and saving the last line of content. It can monitor files like `.zsh_history` or `.bash_history`, automatically saving shell history, helping you easily search recent terminal commands and ensuring you never forget any command again. No need to open the terminal; quickly access your command history, with full-text search support, making it easier and faster to query historical records.
 
 ## Features

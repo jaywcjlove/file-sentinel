@@ -25,6 +25,8 @@
 
 ![FileSentinel 1](./assets/screenshots-1.png)
 
+![FileSentinel 2](./assets/screenshots-2.png)
+
 文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 `.zsh_history` 或 `.bash_history` 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。
 
 ## 主要功能
