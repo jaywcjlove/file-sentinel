@@ -14,7 +14,7 @@
   <p>
     <a href="./README.zh.md">简体中文</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/file-sentinel/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/file-sentinel/releases">Changelog</a>
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/FileSentinel/6744690194" title="FileSentinel for macOS">

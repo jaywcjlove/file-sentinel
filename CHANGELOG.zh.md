@@ -1,9 +1,9 @@
 <p align="right">
-  <a href="./CHANGELOG.zh.md">中文</a>
+  <a href="./CHANGELOG.md">English</a>
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Changelog
+更新日志
 ===
 
 <a target="_blank" href="https://apps.apple.com/app/file-sentinel/6744690194" title="FileSentinel for macOS">
@@ -12,18 +12,18 @@ Changelog
 
 ## [v1.2.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.2.0)
 
-1. feat: Add option to show monitored file in Finder.
-2. fix: Add folder authorization to resolve file permission loss.
-3. fix: Resolve file authorization expiration issue.
-4. chore: Update command menus.
+1. feat：新增在 Finder 中显示监控文件的选项。
+2. fix：新增文件夹授权，解决文件权限丢失问题。
+3. fix：修复文件授权过期问题。
+4. chore：更新命令菜单。
 
 ## [v1.1.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.1.0)
 
-1. feat: Add syntax highlighting settings.
-2. feat: Add fixed window feature.
-3. feat: Add reload file data functionality.
-4. feat: Add command search & support ignore duplicate data.
-5. fix: Fix command time error.
-6. fix: Fix search box spacing issue.
+1. feat: 新增代码高亮设置功能。
+2. feat: 新增固定窗口功能。
+3. feat: 新增重新加载文件数据功能。
+4. feat: 新增命令搜索功能并支持忽略重复数据。
+5. fix: 修复命令时间错误。
+6. fix: 修复搜索框间距问题 
 
 ## [v1.0.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.0.0)
