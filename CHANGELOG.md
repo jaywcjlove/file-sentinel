@@ -10,6 +10,10 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.2.1)
+
+1. fix: resolve error when watching files
+
 ## [v1.2.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.2.0)
 
 1. feat: Add option to show monitored file in Finder.
