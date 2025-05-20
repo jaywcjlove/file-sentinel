@@ -10,6 +10,13 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.3.0)
+
+1. feat: add default commonly used daily terminal commands.
+2. fix: fix issue where removing file watcher had no effect.
+3. fix: fix multi-file watching error.
+4. fix: fix incorrect list display result.
+
 ## [v1.2.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.2.1)
 
 1. fix: resolve error when watching files

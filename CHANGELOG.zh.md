@@ -10,6 +10,13 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.3.0)
+
+1. 新增：添加默认日常操作常用终端命令。
+2. 修复：修复移除文件监听器无效的问题。
+3. 修复：修复多文件监听错误。
+4. 修复：修复列表显示结果错误。
+
 ## [v1.2.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.2.1)
 
 1. fix: 修复监听文件时出现的错误
