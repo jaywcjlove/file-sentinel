@@ -10,6 +10,10 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.4.0)
+
+1. fix: fix issue where file watcher failed to auto-restart.
+
 ## [v1.3.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.3.0)
 
 1. feat: add default commonly used daily terminal commands.

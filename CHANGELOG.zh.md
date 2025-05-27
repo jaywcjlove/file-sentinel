@@ -10,6 +10,10 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.4.0)
+
+1. fix: 修复文件监听未能自动重新启动的问题
+
 ## [v1.3.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.3.0)
 
 1. 新增：添加默认日常操作常用终端命令。
