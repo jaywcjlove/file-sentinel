@@ -10,6 +10,12 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.0)
+
+1. feat: add Settings menu item to the command menu.
+2. fix: correct supported language display in i18n.
+3. fix: fix issue with incorrect command comment parsing.
+
 ## [v1.4.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.4.0)
 
 1. fix: fix issue where file watcher failed to auto-restart.

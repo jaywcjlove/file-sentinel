@@ -10,6 +10,12 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.0)
+
+1. 新增: 在命令菜单中添加设置菜单项。
+2. 修复: 修复国际化中支持语言显示不正确的问题。
+3. 修复: 修复命令注释解析错误的问题。
+
 ## [v1.4.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.4.0)
 
 1. fix: 修复文件监听未能自动重新启动的问题
