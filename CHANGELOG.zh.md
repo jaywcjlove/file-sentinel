@@ -10,6 +10,11 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.1)
+
+1. chore: 更新菜单列表
+2. feat: 添加国际化支持（日文）
+
 ## [v1.5.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.0)
 
 1. 新增: 在命令菜单中添加设置菜单项。

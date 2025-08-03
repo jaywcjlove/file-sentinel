@@ -10,6 +10,11 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.1)
+
+1. chore: update menu list
+2. feat: add Japanese localization support
+
 ## [v1.5.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.0)
 
 1. feat: add Settings menu item to the command menu.
