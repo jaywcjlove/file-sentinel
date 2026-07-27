@@ -10,6 +10,14 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.2.0)
+
+1. feat: make terminal apps configurable in General settings 
+2. feat: add de/fr/it/ko/ru/zh-Hant language. 
+3. feat: rewrite FileDetail list in AppKit with configurable page size 
+4. chore: upgrade SPM packages and migrate to MyAppListKit 5 API 
+5. style: improve toolbar styling.
+
 ## [v2.1.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.1.1)
 
 1. fix: fix UI layout issue on macOS 15

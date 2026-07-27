@@ -10,6 +10,14 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.2.0)
+
+1. 新增：支持在「通用」设置中配置终端应用。
+2. 新增：添加德语、法语、意大利语、韩语、俄语、繁体中文本地化支持。
+3. 新增：使用 AppKit 重写 FileDetail 列表，并支持可配置分页大小。
+4. 维护：升级 SPM 依赖，并迁移到 MyAppListKit 5 API。
+5. 样式：优化工具栏样式。
+
 ## [v2.1.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.1.1)
 
 1. fix: 修复 macOS 15 界面布局问题
