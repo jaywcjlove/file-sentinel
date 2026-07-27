@@ -10,6 +10,10 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.1.1)
+
+1. fix: 修复 macOS 15 界面布局问题
+
 ## [v2.1.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.1.0)
 
 1. perf: 优化列表图标展示
