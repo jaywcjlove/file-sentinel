@@ -23,7 +23,7 @@
   </p>
 </div>
 
-https://github.com/user-attachments/assets/f0b8d5a6-87f3-4066-a587-d987ee968317?title=FileSentinel&rehype=video
+https://github.com/user-attachments/assets/30ea3032-088a-494d-8c39-f833efa204a0?title=FileSentinel&rehype=video
 
 ![FileSentinel 1](./assets/screenshots-1.png)
 
