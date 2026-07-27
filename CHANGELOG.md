@@ -10,6 +10,12 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.0.0)
+
+1. feat: 添加对 macOS 26 的支持并重构界面布局
+2. feat: 添加重新监控按钮
+3. fix: 优化列表展示性能
+
 ## [v1.5.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.1)
 
 1. chore: update menu list

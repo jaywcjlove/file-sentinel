@@ -10,6 +10,9 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.0.0)
+
+
 ## [v1.5.1](https://github.com/jaywcjlove/file-sentinel/releases/tag/v1.5.1)
 
 1. chore: 更新菜单列表
