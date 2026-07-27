@@ -10,6 +10,11 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.1.0)
+
+1. perf: Optimize list icon display
+2. feat: Add "load more" pagination to list
+
 ## [v2.0.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.0.0)
 
 1. feat: 添加对 macOS 26 的支持并重构界面布局
