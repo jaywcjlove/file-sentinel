@@ -10,6 +10,11 @@ Changelog
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.3.0)
+
+1. feat: update app icon. 
+2. fix: show menu item symbol images on macOS 27+. 
+
 ## [v2.2.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.2.0)
 
 1. feat: make terminal apps configurable in General settings 

@@ -10,6 +10,11 @@
 <img alt="FileSentinel AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.3.0)
+
+1. feat: 更新应用图标
+2. fix: 在 macOS 27+ 上显示菜单项符号图标
+
 ## [v2.2.0](https://github.com/jaywcjlove/file-sentinel/releases/tag/v2.2.0)
 
 1. 新增：支持在「通用」设置中配置终端应用。
